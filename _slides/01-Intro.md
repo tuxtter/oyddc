@@ -1,8 +1,11 @@
 ---
 ---
 
-# Demo 
+# Organización y diseño de computadoras 
 
-## Introduction
+## Introducción
 
-Let me introduce you to [Reveal-Jekyll](https://github.com/sylhare/Reveal-Jekyll)
+Unidad 1 Fundamentos
+Unidad 2 Componentes logico digitales
+Unidad 3 Arquitectura de computadoras
+Unidad 4 Dispositivos de memoria, entrada y salida
