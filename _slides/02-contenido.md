@@ -1,9 +1,8 @@
 ---
+transition: zoom
 ---
 
-# Organización y diseño de computadoras 
-
-## Introducción
+## Contenido
 
 Unidad 1 Fundamentos
 Unidad 2 Componentes logico digitales
